@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\dataANDvariables\obj\Debug\dataANDvariables.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\dataANDvariables\bin\Debug\dataANDvariables.exe.config
+C:\repository\C#\C-_Basic\dataANDvariables\bin\Debug\dataANDvariables.exe
+C:\repository\C#\C-_Basic\dataANDvariables\bin\Debug\dataANDvariables.pdb
+C:\repository\C#\C-_Basic\dataANDvariables\obj\Debug\dataANDvariables.exe
+C:\repository\C#\C-_Basic\dataANDvariables\obj\Debug\dataANDvariables.pdb
