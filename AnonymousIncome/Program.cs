@@ -14,20 +14,16 @@ namespace AnonymousIncome
             Console.WriteLine("Person 1: <please press enter>");
             Console.ReadLine();
             Console.WriteLine("What is your hourly rate?");
-            string personRate1 = Console.ReadLine();
-            decimal Rate1 = Convert.ToDecimal(personRate1);
+            decimal Rate1 = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("How many hours per week");
-            string personHours1 = Console.ReadLine();
-            int Hours1 = Convert.ToInt32(personHours1);
+            int Hours1 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Person 2: <please press enter>");
             Console.ReadLine();
             Console.WriteLine("What is your hourly rate?");
-            string personRate2 = Console.ReadLine();
-            int Rate2 = Convert.ToInt32(personRate2);
+            decimal Rate2 = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("How many hours per week");
-            string personHours2 = Console.ReadLine();
-            int Hours2 = Convert.ToInt32(personHours2);
+            int Hours2 = Convert.ToInt32(Console.ReadLine());
 
             decimal weekSalary1 = Rate1 * Hours1;
             decimal annSalary1 = weekSalary1 * 52;
