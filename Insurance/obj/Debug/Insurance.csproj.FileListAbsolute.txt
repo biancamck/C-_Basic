@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Insurance\bin\Debug\Insurance.exe.config
+C:\repository\C#\C-_Basic\Insurance\bin\Debug\Insurance.exe
+C:\repository\C#\C-_Basic\Insurance\bin\Debug\Insurance.pdb
+C:\repository\C#\C-_Basic\Insurance\obj\Debug\Insurance.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Insurance\obj\Debug\Insurance.exe
+C:\repository\C#\C-_Basic\Insurance\obj\Debug\Insurance.pdb
