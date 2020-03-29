@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\MathAssignment\obj\Debug\MathAssignment.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\MathAssignment\bin\Debug\MathAssignment.exe.config
+C:\repository\C#\C-_Basic\MathAssignment\bin\Debug\MathAssignment.exe
+C:\repository\C#\C-_Basic\MathAssignment\bin\Debug\MathAssignment.pdb
+C:\repository\C#\C-_Basic\MathAssignment\obj\Debug\MathAssignment.exe
+C:\repository\C#\C-_Basic\MathAssignment\obj\Debug\MathAssignment.pdb
