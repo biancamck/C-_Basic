@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\AnonymousIncome\bin\Debug\AnonymousIncome.exe.config
+C:\repository\C#\C-_Basic\AnonymousIncome\bin\Debug\AnonymousIncome.exe
+C:\repository\C#\C-_Basic\AnonymousIncome\bin\Debug\AnonymousIncome.pdb
+C:\repository\C#\C-_Basic\AnonymousIncome\obj\Debug\AnonymousIncome.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\AnonymousIncome\obj\Debug\AnonymousIncome.exe
+C:\repository\C#\C-_Basic\AnonymousIncome\obj\Debug\AnonymousIncome.pdb
