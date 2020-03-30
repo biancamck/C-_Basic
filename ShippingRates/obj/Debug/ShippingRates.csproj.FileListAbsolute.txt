@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\ShippingRates\bin\Debug\ShippingRates.exe.config
+C:\repository\C#\C-_Basic\ShippingRates\bin\Debug\ShippingRates.exe
+C:\repository\C#\C-_Basic\ShippingRates\bin\Debug\ShippingRates.pdb
+C:\repository\C#\C-_Basic\ShippingRates\obj\Debug\ShippingRates.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\ShippingRates\obj\Debug\ShippingRates.exe
+C:\repository\C#\C-_Basic\ShippingRates\obj\Debug\ShippingRates.pdb
