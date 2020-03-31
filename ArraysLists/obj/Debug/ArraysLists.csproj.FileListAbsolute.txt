@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\ArraysLists\bin\Debug\ArraysLists.exe.config
+C:\repository\C#\C-_Basic\ArraysLists\bin\Debug\ArraysLists.exe
+C:\repository\C#\C-_Basic\ArraysLists\bin\Debug\ArraysLists.pdb
+C:\repository\C#\C-_Basic\ArraysLists\obj\Debug\ArraysLists.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\ArraysLists\obj\Debug\ArraysLists.exe
+C:\repository\C#\C-_Basic\ArraysLists\obj\Debug\ArraysLists.pdb
