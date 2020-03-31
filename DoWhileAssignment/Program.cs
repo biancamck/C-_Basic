@@ -14,7 +14,7 @@ namespace DoWhileAssignment
             ///// USING DO ///////
             
 
-            Console.WriteLine("Who is the best trail blazer of all time (last name)?");
+            Console.WriteLine("Who is the BEST trail blazer of all time (last name)?");
             string player = Console.ReadLine().ToLower();
             bool isGuessed = player == "lillard";
 
@@ -24,17 +24,17 @@ namespace DoWhileAssignment
                 {
                     case "porter":
                         Console.WriteLine("You guessed Terry Porter. He's good but try again.");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
+                        Console.WriteLine("Who is the BEST trail blazer of all time (last name)?");
                         player = Console.ReadLine();
                         break;
                     case "drexler":
                         Console.WriteLine("you guessed Clyde Drexler. Arguably one of the best, but try again.");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
+                        Console.WriteLine("Who is the BEST trail blazer of all time (last name)?");
                         player = Console.ReadLine().ToLower();
                         break;
                     case "roy":
                         Console.WriteLine("you guessed Brandon Roy, could have been if he didn't get injured, try again");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
+                        Console.WriteLine("Who is the BEST trail blazer of all time (last name)?");
                         player = Console.ReadLine().ToLower();
                         break;
                     case "lillard":
@@ -43,7 +43,7 @@ namespace DoWhileAssignment
                         break;
                     default:
                         Console.WriteLine("Definitely no, try again.");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
+                        Console.WriteLine("Who is the BEST trail blazer of all time (last name)?");
                         player = Console.ReadLine().ToLower();
                         break;
                 }
@@ -56,38 +56,38 @@ namespace DoWhileAssignment
             //////// NEXT GAME USING WHILE /////////
             
 
-            Console.WriteLine("Who is the best trail blazer of all time (last name)?");
+            Console.WriteLine("Who is the WORST trail blazer of all time (last name)?");
             Console.ReadLine();
-            string bplayer = Console.ReadLine().ToLower();
-            bool isGuess = bplayer == "lillard";
+            string wplayer = Console.ReadLine().ToLower();
+            bool isGuess = wplayer == "blake";
 
             while(!isGuess)
             {
-                switch (bplayer)
+                switch (wplayer)
                 {
-                    case "porter":
-                        Console.WriteLine("You guessed Terry Porter. He's good but try again.");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
-                        bplayer = Console.ReadLine();
+                    case "oden":
+                        Console.WriteLine("You guessed Greg Oden. Sucky he got injured, but he was still good. Try Again.");
+                        Console.WriteLine("Who is the WORST trail blazer of all time (last name)?");
+                        wplayer = Console.ReadLine();
                         break;
-                    case "drexler":
-                        Console.WriteLine("you guessed Clyde Drexler. Arguably one of the best, but try again.");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
-                        bplayer = Console.ReadLine().ToLower();
+                    case "wallace":
+                        Console.WriteLine("he may have gotten in some trouble, but he was legit! Try again.");
+                        Console.WriteLine("Who is the WORST trail blazer of all time (last name)?");
+                        wplayer = Console.ReadLine().ToLower();
                         break;
                     case "roy":
-                        Console.WriteLine("you guessed Brandon Roy, could have been if he didn't get injured, try again");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
-                        bplayer = Console.ReadLine().ToLower();
+                        Console.WriteLine("you guessed Brandon Roy, What is wrong with you? try again");
+                        Console.WriteLine("Who is the WORST trail blazer of all time (last name)?");
+                        wplayer = Console.ReadLine().ToLower();
                         break;
-                    case "lillard":
-                        Console.WriteLine("You guessed Damian Lillard, you are correct!!!");
+                    case "blake":
+                        Console.WriteLine("You guessed Steve Blake, this guy was terrible! You are correct!!!");
                         isGuess = true;
                         break;
                     default:
-                        Console.WriteLine("Definitely no, try again.");
-                        Console.WriteLine("Who is the best trail blazer of all time (last name)?");
-                        bplayer = Console.ReadLine().ToLower();
+                        Console.WriteLine("yeah he was pretty bad, but incorrect, try again.");
+                        Console.WriteLine("Who is the WORST trail blazer of all time (last name)?");
+                        wplayer = Console.ReadLine().ToLower();
                         break;
                 }
 
