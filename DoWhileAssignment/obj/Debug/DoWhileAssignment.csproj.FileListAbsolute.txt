@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\DoWhileAssignment\bin\Debug\DoWhileAssignment.exe.config
+C:\repository\C#\C-_Basic\DoWhileAssignment\bin\Debug\DoWhileAssignment.exe
+C:\repository\C#\C-_Basic\DoWhileAssignment\bin\Debug\DoWhileAssignment.pdb
+C:\repository\C#\C-_Basic\DoWhileAssignment\obj\Debug\DoWhileAssignment.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\DoWhileAssignment\obj\Debug\DoWhileAssignment.exe
+C:\repository\C#\C-_Basic\DoWhileAssignment\obj\Debug\DoWhileAssignment.pdb
