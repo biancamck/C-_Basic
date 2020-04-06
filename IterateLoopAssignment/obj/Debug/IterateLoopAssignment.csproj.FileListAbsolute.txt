@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\IterateLoopAssignment\bin\Debug\IterateLoopAssignment.exe.config
+C:\repository\C#\C-_Basic\IterateLoopAssignment\bin\Debug\IterateLoopAssignment.exe
+C:\repository\C#\C-_Basic\IterateLoopAssignment\bin\Debug\IterateLoopAssignment.pdb
+C:\repository\C#\C-_Basic\IterateLoopAssignment\obj\Debug\IterateLoopAssignment.exe
+C:\repository\C#\C-_Basic\IterateLoopAssignment\obj\Debug\IterateLoopAssignment.pdb
+C:\repository\C#\C-_Basic\IterateLoopAssignment\obj\Debug\IterateLoopAssignment.csprojAssemblyReference.cache
