@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\DivideAssignment\bin\Debug\DivideAssignment.exe.config
+C:\repository\C#\C-_Basic\DivideAssignment\bin\Debug\DivideAssignment.exe
+C:\repository\C#\C-_Basic\DivideAssignment\bin\Debug\DivideAssignment.pdb
+C:\repository\C#\C-_Basic\DivideAssignment\obj\Debug\DivideAssignment.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\DivideAssignment\obj\Debug\DivideAssignment.exe
+C:\repository\C#\C-_Basic\DivideAssignment\obj\Debug\DivideAssignment.pdb
