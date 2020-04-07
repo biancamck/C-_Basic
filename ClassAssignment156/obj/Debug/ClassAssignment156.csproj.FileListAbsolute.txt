@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\ClassAssignment156\bin\Debug\ClassAssignment156.exe.config
+C:\repository\C#\C-_Basic\ClassAssignment156\bin\Debug\ClassAssignment156.exe
+C:\repository\C#\C-_Basic\ClassAssignment156\bin\Debug\ClassAssignment156.pdb
+C:\repository\C#\C-_Basic\ClassAssignment156\obj\Debug\ClassAssignment156.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\ClassAssignment156\obj\Debug\ClassAssignment156.exe
+C:\repository\C#\C-_Basic\ClassAssignment156\obj\Debug\ClassAssignment156.pdb
