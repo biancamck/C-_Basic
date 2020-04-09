@@ -1,0 +1,11 @@
+C:\repository\C#\C-_Basic\Assignment161\bin\Debug\netcoreapp3.1\Assignment161.exe
+C:\repository\C#\C-_Basic\Assignment161\bin\Debug\netcoreapp3.1\Assignment161.deps.json
+C:\repository\C#\C-_Basic\Assignment161\bin\Debug\netcoreapp3.1\Assignment161.runtimeconfig.json
+C:\repository\C#\C-_Basic\Assignment161\bin\Debug\netcoreapp3.1\Assignment161.runtimeconfig.dev.json
+C:\repository\C#\C-_Basic\Assignment161\bin\Debug\netcoreapp3.1\Assignment161.dll
+C:\repository\C#\C-_Basic\Assignment161\bin\Debug\netcoreapp3.1\Assignment161.pdb
+C:\repository\C#\C-_Basic\Assignment161\obj\Debug\netcoreapp3.1\Assignment161.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Assignment161\obj\Debug\netcoreapp3.1\Assignment161.AssemblyInfoInputs.cache
+C:\repository\C#\C-_Basic\Assignment161\obj\Debug\netcoreapp3.1\Assignment161.AssemblyInfo.cs
+C:\repository\C#\C-_Basic\Assignment161\obj\Debug\netcoreapp3.1\Assignment161.dll
+C:\repository\C#\C-_Basic\Assignment161\obj\Debug\netcoreapp3.1\Assignment161.pdb
