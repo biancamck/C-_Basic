@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Assignment160\bin\Debug\Assignment160.exe.config
+C:\repository\C#\C-_Basic\Assignment160\bin\Debug\Assignment160.exe
+C:\repository\C#\C-_Basic\Assignment160\bin\Debug\Assignment160.pdb
+C:\repository\C#\C-_Basic\Assignment160\obj\Debug\Assignment160.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Assignment160\obj\Debug\Assignment160.exe
+C:\repository\C#\C-_Basic\Assignment160\obj\Debug\Assignment160.pdb
