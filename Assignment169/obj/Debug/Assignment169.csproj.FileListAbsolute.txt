@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Assignment169\obj\Debug\Assignment169.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Assignment169\bin\Debug\Assignment169.exe.config
+C:\repository\C#\C-_Basic\Assignment169\bin\Debug\Assignment169.exe
+C:\repository\C#\C-_Basic\Assignment169\bin\Debug\Assignment169.pdb
+C:\repository\C#\C-_Basic\Assignment169\obj\Debug\Assignment169.exe
+C:\repository\C#\C-_Basic\Assignment169\obj\Debug\Assignment169.pdb
