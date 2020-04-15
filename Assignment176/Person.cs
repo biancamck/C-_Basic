@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment169
+namespace Assignment176
 {
     public abstract class Person
     {
@@ -14,9 +14,7 @@ namespace Assignment169
 
         public void SayName(string FirstName, string LastName)
         {
-            FirstName = "B";
-            LastName = "M";
-
+            
             Console.WriteLine("Name: " + FirstName + " " + LastName);
             Console.ReadLine();
         }

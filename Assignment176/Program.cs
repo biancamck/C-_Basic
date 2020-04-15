@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment169
+namespace Assignment176
 {
     class Program
     {
@@ -13,9 +13,12 @@ namespace Assignment169
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
-            //Person.SayName(employee);
-            Console.WriteLine("Name: " + employee.FirstName + " " + employee.LastName);
-            Console.ReadLine();
+            employee.SayName(employee.FirstName, employee.LastName);
+                       
         }
+        
+        IQuittable quitter = new Employee();
+        quitter.Quit();
+
     }
 }

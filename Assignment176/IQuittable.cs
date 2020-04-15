@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Assignment176
 {
-    public class Employee : Person, IQuittable
+    interface IQuittable
     {
-        public int ID { get; set; }
+        public void Quit()
+        {
+            Console.WriteLine("this employee has quit");
+        }
     }
-
-    
 }

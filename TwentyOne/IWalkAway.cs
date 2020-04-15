@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment176
+namespace TwentyOne
 {
-    public class Employee : Person, IQuittable
+    interface IWalkAway
     {
-        public int ID { get; set; }
-    }
+        void WalkAway(Player player);
 
-    
+    }
 }
