@@ -10,11 +10,19 @@ namespace Assignment176
     {
         public int ID { get; set; }
 
-        public void Quit()
+        public void Quit()          //assignment 179
         {
             Console.WriteLine("This employee has quit");
             Console.ReadLine();
         }
+
+        public void CheckID(int ID1, int ID2)       //assignment 184
+        {
+            bool sameID = ID1 == ID2;
+            Console.WriteLine(sameID);
+            Console.ReadLine();
+        }
+        
     }
 
     
