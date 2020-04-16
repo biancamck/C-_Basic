@@ -24,8 +24,8 @@ namespace Assignment176
 
             employee.CheckID(employee.ID, employee2.ID);  //this is for step 184
 
-            //IQuittable quitter = new Employee();  //this was step 179
-            // quitter.Quit();
+            IQuittable quitter = new Employee();  //this was step 179
+            quitter.Quit();
 
 
 
