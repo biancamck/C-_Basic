@@ -8,9 +8,6 @@ namespace Assignment176
 {
     interface IQuittable
     {
-        public void Quit()
-        {
-            Console.WriteLine("this employee has quit");
-        }
+        void Quit();
     }
 }

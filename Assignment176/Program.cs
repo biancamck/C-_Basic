@@ -14,11 +14,13 @@ namespace Assignment176
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName(employee.FirstName, employee.LastName);
-                       
+
+            IQuittable quitter = new Employee();
+            quitter.Quit();
+
         }
         
-        IQuittable quitter = new Employee();
-        quitter.Quit();
+        
 
     }
 }
