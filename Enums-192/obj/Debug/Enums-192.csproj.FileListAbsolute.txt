@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Enums-192\obj\Debug\Enums-192.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Enums-192\bin\Debug\Enums-192.exe.config
+C:\repository\C#\C-_Basic\Enums-192\bin\Debug\Enums-192.exe
+C:\repository\C#\C-_Basic\Enums-192\bin\Debug\Enums-192.pdb
+C:\repository\C#\C-_Basic\Enums-192\obj\Debug\Enums-192.exe
+C:\repository\C#\C-_Basic\Enums-192\obj\Debug\Enums-192.pdb
