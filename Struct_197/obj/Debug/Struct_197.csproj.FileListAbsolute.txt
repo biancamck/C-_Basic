@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Struct_197\bin\Debug\Struct_197.exe.config
+C:\repository\C#\C-_Basic\Struct_197\bin\Debug\Struct_197.exe
+C:\repository\C#\C-_Basic\Struct_197\bin\Debug\Struct_197.pdb
+C:\repository\C#\C-_Basic\Struct_197\obj\Debug\Struct_197.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Struct_197\obj\Debug\Struct_197.exe
+C:\repository\C#\C-_Basic\Struct_197\obj\Debug\Struct_197.pdb
