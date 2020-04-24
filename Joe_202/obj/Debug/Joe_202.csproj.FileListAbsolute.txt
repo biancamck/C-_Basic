@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Joe_202\bin\Debug\Joe_202.exe.config
+C:\repository\C#\C-_Basic\Joe_202\bin\Debug\Joe_202.exe
+C:\repository\C#\C-_Basic\Joe_202\bin\Debug\Joe_202.pdb
+C:\repository\C#\C-_Basic\Joe_202\obj\Debug\Joe_202.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Joe_202\obj\Debug\Joe_202.exe
+C:\repository\C#\C-_Basic\Joe_202\obj\Debug\Joe_202.pdb
