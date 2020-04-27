@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\LogFile210\bin\Debug\LogFile210.exe.config
+C:\repository\C#\C-_Basic\LogFile210\bin\Debug\LogFile210.exe
+C:\repository\C#\C-_Basic\LogFile210\bin\Debug\LogFile210.pdb
+C:\repository\C#\C-_Basic\LogFile210\obj\Debug\LogFile210.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\LogFile210\obj\Debug\LogFile210.exe
+C:\repository\C#\C-_Basic\LogFile210\obj\Debug\LogFile210.pdb
