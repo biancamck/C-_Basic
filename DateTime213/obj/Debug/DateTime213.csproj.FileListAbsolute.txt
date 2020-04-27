@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\DateTime213\bin\Debug\DateTime213.exe.config
+C:\repository\C#\C-_Basic\DateTime213\bin\Debug\DateTime213.exe
+C:\repository\C#\C-_Basic\DateTime213\bin\Debug\DateTime213.pdb
+C:\repository\C#\C-_Basic\DateTime213\obj\Debug\DateTime213.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\DateTime213\obj\Debug\DateTime213.exe
+C:\repository\C#\C-_Basic\DateTime213\obj\Debug\DateTime213.pdb
