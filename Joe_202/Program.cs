@@ -10,7 +10,7 @@ namespace Joe_202
     {
         static void Main(string[] args)
         {
-
+            //#1
             List<Employees> employees = new List<Employees>();
             employees.Add(new Employees() { Fname = "Joe", Lname = "Biden", ID = 1 });
             employees.Add(new Employees() { Fname = "Joe", Lname = "Bullit", ID = 2 });
@@ -22,15 +22,14 @@ namespace Joe_202
             employees.Add(new Employees() { Fname = "Ashley", Lname = "Banks", ID = 8 });
             employees.Add(new Employees() { Fname = "Brittany", Lname = "Murphy", ID = 9 });
             employees.Add(new Employees() { Fname = "Jack", Lname = "Ramsey", ID = 10 });
-
+            
            foreach (Employees emp in employees)
            {
                 Console.WriteLine(emp.Fname + " " + emp.Lname + " " + emp.ID);
            }
             Console.ReadLine();
-           
-            
 
+            //#2
             List<Employees> joeList = new List<Employees>();
             foreach (Employees joe in employees)
             {
@@ -42,8 +41,17 @@ namespace Joe_202
             }
             Console.ReadLine();
 
-            List<Employees> newList = employees.Where(x => x.ID >= 5).ToList();
+            //#3
+            List<Employees> JoeLamdaList = employees.Where(x => x.Fname == "Joe").ToList();
+            foreach (Employees joelambda in JoeLamdaList)
+            {
+                Console.WriteLine(joelambda.Fname + " " + joelambda.Lname + " " + joelambda.ID);
+               
+            }
+            Console.ReadLine();
 
+            //#4
+            List<Employees> newList = employees.Where(x => x.ID >= 5).ToList();
             foreach (Employees over5 in newList)
             {
                 Console.WriteLine(over5.Fname + " " + over5.Lname + " " + over5.ID);
