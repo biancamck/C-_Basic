@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\Var221\bin\Debug\Var221.exe.config
+C:\repository\C#\C-_Basic\Var221\bin\Debug\Var221.exe
+C:\repository\C#\C-_Basic\Var221\bin\Debug\Var221.pdb
+C:\repository\C#\C-_Basic\Var221\obj\Debug\Var221.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\Var221\obj\Debug\Var221.exe
+C:\repository\C#\C-_Basic\Var221\obj\Debug\Var221.pdb
