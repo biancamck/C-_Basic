@@ -1,0 +1,6 @@
+C:\repository\C#\C-_Basic\errors225\bin\Debug\errors225.exe.config
+C:\repository\C#\C-_Basic\errors225\bin\Debug\errors225.exe
+C:\repository\C#\C-_Basic\errors225\bin\Debug\errors225.pdb
+C:\repository\C#\C-_Basic\errors225\obj\Debug\errors225.csprojAssemblyReference.cache
+C:\repository\C#\C-_Basic\errors225\obj\Debug\errors225.exe
+C:\repository\C#\C-_Basic\errors225\obj\Debug\errors225.pdb
