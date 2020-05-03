@@ -15,6 +15,10 @@ namespace Var221
             var name = "Bianca";
             Console.WriteLine(hello + name);
             Console.ReadLine();
+
+            Class1 classX = new Class1();
+            Console.WriteLine(classX.str1);
+            Console.ReadLine();
         }
     }
 }
