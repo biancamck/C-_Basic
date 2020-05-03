@@ -17,7 +17,7 @@ namespace errors225
             {
                 Console.WriteLine("What is your age?");
                 int age = Convert.ToInt32(Console.ReadLine());
-                if (age <= 0 || age > 200) throw new ArgumentException();
+                if (age <= 0 || age > 100) throw new ArgumentException();
                 int birthYear = curYear - age;
                 Console.WriteLine("You were born in {0}", birthYear);
                 Console.ReadLine();
